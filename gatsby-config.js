@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    title: 'Unamed Blog',
+    author: 'Peter C',
+    description: ' ',
+    siteUrl: 'https://unamedblog.azurewebsites.net',
   },
-  pathPrefix: '/gatsby-starter-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -48,13 +47,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "GatsbyJS",
-        short_name: "GatsbyJS",
-        start_url: "/",
-        background_color: "#f7f0eb",
-        theme_color: "#a2466c",
-        display: "fullscreen",
-        icon: "src/images/icon.png", // This path is relative to the root of the site.
+        name: `GatsbyJS`,
+        short_name: `GatsbyJS`,
+        start_url: `/index.html`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `fullscreen`,
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-offline`,
