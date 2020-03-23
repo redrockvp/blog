@@ -10,7 +10,7 @@ module.exports = {
   siteMetadata: {
     title: `Delog`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://muddy-star-4804.tmnl.co/`,
+    siteUrl: `https://blog.hte.io/`,
     home: {
       title: `Hi! I'm Delog`,
       description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`
