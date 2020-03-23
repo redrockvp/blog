@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: '__GATSBY_IPFS_PATH_PREFIX__',
   siteMetadata: {
     title: `Delog`,
     description: `A starter blog demonstrating what Gatsby can do.`,
@@ -53,6 +54,7 @@ module.exports = {
         head: true
       }
     },
+    'gatsby-plugin-ipfs',
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`
