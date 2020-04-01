@@ -28,14 +28,15 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/W3Layouts/Delog#readme",
+  "homepage": "https://blog.hte.io",
   "keywords": [
     "gatsby",
-    "netlify cms"
+    "HTE",
+    "blog"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/W3Layouts/Delog.git"
+    "url": "https://github.com/HTEredrock/blogt"
   },
   "scripts": {
     "build": "gatsby build --prefix-paths",
@@ -45,6 +46,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby clean && gatsby build --prefix-paths"
+    "deploy": "gatsby build --prefix-paths"
   }
 }
