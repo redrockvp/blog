@@ -72,6 +72,6 @@ module.exports = {
     'gatsby-plugin-ipfs',
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-netlify-cms`
+    // `gatsby-plugin-netlify-cms`
   ]
 };
