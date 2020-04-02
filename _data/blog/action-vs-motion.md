@@ -4,7 +4,7 @@ path: /action-vs-motion
 date: 2020-04-02T09:20:53.137Z
 title: "Action vs Motion: Finding The Balance in the Madness of Life"
 thumbnail: ""
-metaDescription: Meta description for Hello World
+metaDescription: Update for the first week in April
 ---
 
 Hi there everyone, I'd like to start off by saying that I'm sorry that things have been a fairly quiet in the Discord the last few weeks and that there has been a general lack of content on the Twitch and YouTube front. 
