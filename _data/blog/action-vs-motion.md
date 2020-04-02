@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /action-vs-motion
-date: 2020-02-20T07:08:53.137Z
+date: 2020-04-02T09:20:53.137Z
 title: "Action vs Motion: Finding The Balance in the Madness of Life"
 thumbnail: ""
 metaDescription: Meta description for Hello World
