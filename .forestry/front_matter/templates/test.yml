@@ -23,7 +23,8 @@ fields:
 - name: sections
   type: blocks
   label: Sections
-  template_types: []
+  template_types:
+  - test
   config:
     min: 
     max: 
