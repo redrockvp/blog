@@ -20,3 +20,10 @@ fields:
 - type: text
   name: metaDescription
   label: metaDescription
+- name: sections
+  type: blocks
+  label: Sections
+  template_types: []
+  config:
+    min: 
+    max: 
